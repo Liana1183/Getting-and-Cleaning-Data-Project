@@ -28,7 +28,9 @@ The dataset includes the following files:
 
 - 'Tidy Data Code Book.txt' : Code Book which explains the different fields in the data set.
 
-- 'tidy_data.txt': contains the data set
+- 'run_analysis.R': This is the script that takes the original dataset and produces a tidy data set named 'tidy_data.txt'.
+
+- 'tidy_data.txt': contains the data set produced by run_analysis.R
 
 Notes:
 ==========================================
